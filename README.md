@@ -1,5 +1,5 @@
 # bootcamp-udenad-opgave
-Brug det du har lært
+All together now... (plus lidt med tilfældige tal)
 
 
 ## Del 1
